@@ -12,7 +12,6 @@ body {
 }
 
 nav {
-	border: 10px dashed red;
 	display: flex;
 	justify-content: space-between;
 }
